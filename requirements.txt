@@ -1,6 +1,6 @@
-streamlit
-ccxt
-pandas
-pandas-ta
-scikit-learn
-numpy
+streamlit==1.31.0
+ccxt==4.2.19
+pandas==2.1.4
+pandas-ta==0.3.14b0
+scikit-learn==1.3.2
+numpy==1.26.4
